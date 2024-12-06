@@ -1,0 +1,197 @@
+{
+  "home": {
+    "item": {
+      "item": {
+        "title": "Welcome to My Portfolio",
+        "subtitle": "Crafting web solutions with passion and precision",
+        "heroImage": "https://via.placeholder.com/1920x1080",
+        "description": "Explore my journey, dive into my projects, and feel free to reach out. This space is where creativity meets technology.",
+        "ctaButton": {
+          "text": "View My Work",
+          "link": "/portfolio"
+        }
+      },
+      "title": "Welcome to My Portfolio",
+      "subtitle": "Crafting web solutions with passion and precision",
+      "heroImage": "https://via.placeholder.com/1920x1080",
+      "description": "Explore my journey, dive into my projects, and feel free to reach out. This space is where creativity meets technology.!",
+      "ctaButton": {
+        "text": "View My Work",
+        "link": "/portfolio"
+      }
+    },
+    "title": "Welcome to My Portfolio",
+    "subtitle": "Crafting web solutions with passion and precision",
+    "heroImage": "https://via.placeholder.com/1920x1080",
+    "description": "Explore my journey, dive into my projects, and feel free to reach out. This space is where creativity meets technology.",
+    "ctaButton": {
+      "text": "View My Work",
+      "link": "/portfolio"
+    }
+  },
+  "portfolio": [
+    {
+      "id": "1",
+      "title": "SAMANDAR!",
+      "description": "A responsive e-commerce platform with user-friendly design and payment integration.",
+      "technologies": [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "Stripe API"
+      ],
+      "image": "https://via.placeholder.com/800x600",
+      "link": "https://example.com/ecommerce"
+    },
+    {
+      "id": "2",
+      "title": "BAXTIYOR!",
+      "description": "A personal portfolio website built to showcase projects and skills.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootstrap"
+      ],
+      "image": "https://via.placeholder.com/800x600",
+      "link": "https://example.com/portfolio"
+    },
+    {
+      "id": "3",
+      "title": "Mobile App",
+      "description": "A cross-platform mobile app for task management with push notifications.",
+      "technologies": [
+        "Flutter",
+        "Firebase"
+      ],
+      "image": "https://via.placeholder.com/800x600",
+      "link": "https://example.com/mobile-app"
+    },
+    {
+      "0": {
+        "id": 1,
+        "title": "E-Commerce Website",
+        "description": "SAmandar responsive e-commerce platform with user-friendly design and payment integration."
+      },
+      "1": {
+        "id": 2,
+        "title": "Portfolio Website",
+        "description": "A personal portfolio website built to showcase projects and skills."
+      },
+      "id": "7878"
+    },
+    {
+      "0": {
+        "id": 1,
+        "title": "E-Commerce Website",
+        "description": "A responsive e-commerce platform with user-friendly design and payment."
+      },
+      "1": {
+        "id": 2,
+        "title": "Portfolio Website",
+        "description": "A personal portfolio website built to showcase projects and skills."
+      },
+      "id": "8d92"
+    },
+    {
+      "0": {
+        "id": 1,
+        "title": "E-Commerce Website",
+        "description": "A responsive e-commerce platform with user-friendly design and payment."
+      },
+      "1": {
+        "id": 2,
+        "title": "Portfolio Website",
+        "description": "A personal portfolio website built to showcase projects and skills."
+      },
+      "id": "a099"
+    }
+  ],
+  "setup": {
+    "item": {
+      "item": {
+        "theme": "dark",
+        "language": "en",
+        "primaryColor": "#1e90ff",
+        "contactEmail": "your-email@example.com",
+        "socialLinks": {
+          "github": "https://github.com/username",
+          "linkedin": "https://linkedin.com/in/username",
+          "twitter": "https://twitter.com/username"
+        }
+      },
+      "contactEmail": "your-email@example.com",
+      "socialLinks": {
+        "github": "ttps://github.com/username",
+        "twitter": "https://twitter.com/username"
+      }
+    },
+    "contactEmail": "your-email@example.com",
+    "socialLinks": {
+      "github": "https://github.com/username",
+      "twitter": "https://twitter.com/username"
+    }
+  },
+  "aboutme": {
+    "item": {
+      "name": "Jane Doe",
+      "bio": "A creative and detail-oriented web developer with a knack for building dynamic and visually appealing web solutions.",
+      "company": "Tech Solutions Inc.",
+      "experience": [
+        {
+          "role": "Frontend Developer",
+          "duration": "Jan 2020 - Present",
+          "responsibilities": [
+            "Developed responsive web designs using React and Tailwind CSS.",
+            "Collaborated with cross-functional teams to ensure seamless project delivery.",
+            "Optimized website performance for improved user experience."
+          ]
+        },
+        {
+          "role": "Web Developer Intern",
+          "duration": "May 2019 - Dec 2019",
+          "responsibilities": [
+            "Built landing pages and prototypes for startup clients.",
+            "Integrated APIs to enhance functionality.",
+            "Conducted user testing to ensure design responsiveness."
+          ]
+        }
+      ],
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "CSS",
+        "HTML",
+        "REST APIs",
+        "Git"
+      ],
+      "image": "https://via.placeholder.com/150"
+    },
+    "name": "SAMANDAR",
+    "company": "Tech Solutions Inc.",
+    "bio": "A creative and detail-oriented web developer with a knack for building dynamic and visually appealing web solutions."
+  },
+  "testimonials": [
+    {
+      "id": "1",
+      "name": "John Smith",
+      "role": "Project Manager, TechCorp",
+      "message": "Jane's dedication and attention to detail are exceptional. She always delivers beyond expectations!",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "2",
+      "name": "Emily Davis",
+      "role": "CEO, Startup Co.",
+      "message": "Working with Jane was a pleasure. Her ability to solve complex problems is unmatched.",
+      "image": "https://via.placeholder.com/150"
+    }
+  ],
+  "contact": {
+    "email": "your-email@example.com",
+    "phone": "+123-456-7890",
+    "address": "123 Developer Lane, Tech City, TX, 12345",
+    "mapLink": "https://maps.google.com"
+  }
+}
